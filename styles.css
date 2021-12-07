@@ -1,0 +1,53 @@
+#Main_Page_Heading
+{
+  text-align: center;
+  
+  color:navy;
+}
+
+#Main_Page_1
+{
+  width:49.2%;
+  background-color:lightgray;
+  height:500px;
+  float: left;
+  border-style: none;
+ 
+}
+#Main_Page_2
+{
+  width:50%;
+  background-color:lightgray;
+  height:500px;
+  float: right;
+  border-style: none;
+
+  
+}
+
+#Quiz_head
+{
+  text-align: center;
+  color:navy;
+}
+
+#Quiz_1_div1
+{
+  font-family:cursive;
+  font-size: 14px;
+  padding-top: 60px;;
+}
+
+#Quiz_1_div2
+{
+  font-family:cursive;
+  font-size: 14px;
+  padding-top: 60px;;
+}
+#Quiz_1_StartButton
+{
+  margin-left: 400px;
+  margin-top: 10px;
+  border-radius: 30px;
+  background-color: whitesmoke;
+}
