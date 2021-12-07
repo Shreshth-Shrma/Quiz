@@ -93,6 +93,10 @@ function valid()
         chkform=false;
         return false;
     }
+  else
+    {
+        chkform=true;
+    }
 }
 
 function answerHelp() {
